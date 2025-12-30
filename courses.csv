@@ -1,0 +1,891 @@
+﻿S No,Course Name,Course Certificate Type,Course Difficulty,Course Enrollment
+1,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,COURSE,Intermediate,17k
+2,A Crash Course in Data Science,COURSE,Mixed,130k
+3,A Law Student's Toolkit,COURSE,Mixed,91k
+4,A Life of Happiness and Fulfillment,COURSE,Mixed,320k
+5,ADHD: Everyday Strategies for Elementary Students,COURSE,Beginner,39k
+6,AI For Everyone,COURSE,Beginner,350k
+7,AI For Medical Treatment,COURSE,Intermediate,2.4k
+8,AI Foundations for Everyone,SPECIALIZATION,Beginner,61k
+9,AI for Medical Diagnosis,COURSE,Intermediate,12k
+10,AI for Medical Prognosis,COURSE,Intermediate,4k
+11,AI for Medicine,SPECIALIZATION,Intermediate,13k
+12,AWS Fundamentals,SPECIALIZATION,Beginner,130k
+13,AWS Fundamentals: Addressing Security Risk,COURSE,Beginner,11k
+14,AWS Fundamentals: Building Serverless Applications,COURSE,Beginner,27k
+15,AWS Fundamentals: Going Cloud-Native,COURSE,Beginner,110k
+16,AWS Fundamentals: Migrating to the Cloud,COURSE,Intermediate,13k
+17,Aboriginal Worldviews and Education,COURSE,Mixed,6.6k
+18,Academic English: Writing,SPECIALIZATION,Beginner,540k
+19,Accelerated Computer Science Fundamentals,SPECIALIZATION,Intermediate,22k
+20,Access Controls,COURSE,Beginner,2.9k
+21,Accounting Analytics,COURSE,Mixed,80k
+22,Accounting for Decision Making,COURSE,Intermediate,9.9k
+23,Achieving Personal and Professional Success,SPECIALIZATION,Beginner,110k
+24,ActualizaciÃ³n en el manejo del paciente con diabetes mellitus tipo 2,COURSE,Mixed,23k
+25,Addiction Treatment: Clinical Skills for Healthcare Providers,COURSE,Beginner,9.2k
+26,Advanced Business Analytics,SPECIALIZATION,Intermediate,78k
+27,Advanced Data Science with IBM,SPECIALIZATION,Advanced,320k
+28,Advanced Machine Learning,SPECIALIZATION,Advanced,190k
+29,Advanced Machine Learning with TensorFlow on Google Cloud Platform,SPECIALIZATION,Advanced,35k
+30,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",COURSE,Advanced,29k
+31,Advertising and Society,COURSE,Mixed,14k
+32,Age of Cathedrals,COURSE,Beginner,21k
+33,Agile Development,SPECIALIZATION,Beginner,94k
+34,Agile Meets Design Thinking,COURSE,Beginner,69k
+35,Agile with Atlassian Jira,COURSE,Beginner,40k
+36,Agile Ð¸ Scrum Ð² Ñ€Ð°Ð±Ð¾Ñ‚Ðµ Ð½Ð°Ð´ Ð¿Ñ€Ð¾ÐµÐºÑ‚Ð°Ð¼Ð¸ Ð¸ Ð¿Ñ€Ð¾Ð´ÑƒÐºÑ‚Ð°Ð¼Ð¸,COURSE,Beginner,12k
+37,Algorithmic Toolbox,COURSE,Intermediate,220k
+38,Algorithms,SPECIALIZATION,Intermediate,150k
+39,Algorithms for Battery Management Systems,SPECIALIZATION,Intermediate,14k
+40,American Contract Law I,COURSE,Beginner,18k
+41,An Introduction to American Law,COURSE,Beginner,23k
+42,An Introduction to Consumer Neuroscience & Neuromarketing,COURSE,Beginner,69k
+43,An Introduction to Programming the Internet of Things (IOT),SPECIALIZATION,Beginner,270k
+44,Analysing: Numeric and digital literacies,SPECIALIZATION,Beginner,7.9k
+45,Anatomy,SPECIALIZATION,Beginner,30k
+46,"Anatomy of the Chest, Abdomen, and Pelvis",COURSE,Intermediate,36k
+47,Anatomy: Musculoskeletal and Integumentary Systems,COURSE,Beginner,20k
+48,Ancient Philosophy: Aristotle and His Successors,COURSE,Mixed,8.1k
+49,Android App Development,SPECIALIZATION,Beginner,120k
+50,Animal Behaviour and Welfare,COURSE,Mixed,71k
+51,Antibiotic Stewardship,COURSE,Advanced,11k
+52,AnticorrupciÃ³n: IntroducciÃ³n a conceptos y perspectiva prÃ¡ctica,COURSE,Beginner,11k
+53,Antimicrobial resistance - theory and methods,COURSE,Intermediate,63k
+54,Applied Data Science,SPECIALIZATION,Beginner,220k
+55,Applied Data Science Capstone,COURSE,Intermediate,42k
+56,Applied Data Science with Python,SPECIALIZATION,Intermediate,480k
+57,Applied Machine Learning in Python,COURSE,Intermediate,150k
+58,"Applied Plotting, Charting & Data Representation in Python",COURSE,Intermediate,97k
+59,Aprende a programar con Python,SPECIALIZATION,Beginner,6.6k
+60,Aprender,COURSE,Mixed,200k
+61,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrÃ¡s dominar temas difÃ­ciles (Learning How to Learn),COURSE,Beginner,180k
+62,Architecting with Google Cloud Platform æ—¥æœ¬èªžç‰ˆ,SPECIALIZATION,Intermediate,4.2k
+63,Architecting with Google Compute Engine,SPECIALIZATION,Intermediate,310k
+64,Architecting with Google Kubernetes Engine æ—¥æœ¬èªžç‰ˆ,SPECIALIZATION,Beginner,3.9k
+65,Arizona State University TESOL,PROFESSIONAL CERTIFICATE,Beginner,150k
+66,Art & Activity: Interactive Strategies for Engaging with Art,COURSE,Mixed,79k
+67,Art & Ideas: Teaching with Themes,COURSE,Mixed,31k
+68,Arts and Culture Strategy,COURSE,Mixed,15k
+69,Arts and Heritage Management,COURSE,Mixed,15k
+70,Aspectos bÃ¡sicos de la planificaciÃ³n y la gestiÃ³n de proyectos,COURSE,Beginner,10k
+71,Astrobiology and the Search for Extraterrestrial Life,COURSE,Mixed,66k
+72,AtenciÃ³n Primaria en Salud: El desafÃ­o de las Enfermedades no Transmisibles,COURSE,Intermediate,33k
+73,Autism Spectrum Disorder,COURSE,Mixed,56k
+74,Autodesk CAD/CAM for Manufacturing,SPECIALIZATION,Intermediate,7.3k
+75,Autodesk CAD/CAM/CAE for Mechanical Engineering,SPECIALIZATION,Intermediate,9.2k
+76,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,COURSE,Advanced,22k
+77,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,COURSE,Advanced,9.7k
+78,BIM Fundamentals for Engineers,COURSE,Beginner,13k
+79,Basic Statistics,COURSE,Beginner,180k
+80,Bayesian Statistics: From Concept to Data Analysis,COURSE,Intermediate,91k
+81,Bayesian Statistics: Techniques and Models,COURSE,Intermediate,29k
+82,Become a CBRS Certified Professional Installer by Google,COURSE,Mixed,210k
+83,Become a Journalist: Report the News!,SPECIALIZATION,Beginner,28k
+84,Become a Sustainable Business Change Agent,SPECIALIZATION,Intermediate,4.2k
+85,Becoming a Sports Agent,COURSE,Beginner,6.5k
+86,Becoming a changemaker: Introduction to Social Innovation,COURSE,Beginner,61k
+87,Behavioral Finance,COURSE,Mixed,55k
+88,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,COURSE,Mixed,2.3k
+89,Big Data â€“ IntroducciÃ³n al uso prÃ¡ctico de datos masivos,SPECIALIZATION,Beginner,8.8k
+90,Biohacking Your Brain's Health,COURSE,Beginner,35k
+91,Biology Meets Programming: Bioinformatics for Beginners,COURSE,Beginner,88k
+92,Biostatistics in Public Health,SPECIALIZATION,Beginner,14k
+93,Blended Language Learning: Design and Practice for Teachers,COURSE,Intermediate,1.9k
+94,Blockchain,SPECIALIZATION,Intermediate,68k
+95,Blockchain Revolution,SPECIALIZATION,Beginner,21k
+96,Blockchain Revolution in Financial Services,SPECIALIZATION,Beginner,1.6k
+97,Blockchain: Foundations and Use Cases,COURSE,Beginner,31k
+98,Boosting Creativity for Innovation,COURSE,Beginner,9.5k
+99,"Brand Management: Aligning Business, Brand and Behaviour",COURSE,Beginner,57k
+100,Branding: The Creative Journey,SPECIALIZATION,Beginner,26k
+101,Budgeting and Scheduling Projects,COURSE,Mixed,84k
+102,Bugs 101: Insect-Human Interactions,COURSE,Beginner,15k
+103,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),COURSE,Mixed,95k
+104,Building Batch Data Pipelines on GCP,COURSE,Intermediate,7.3k
+105,Building Conversational Experiences with Dialogflow,COURSE,Beginner,22k
+106,Building Resilient Streaming Analytics Systems on GCP,COURSE,Intermediate,5.8k
+107,Building Scalable Java Microservices with Spring Boot and Spring Cloud,COURSE,Intermediate,24k
+108,Building Your Leadership Skills,COURSE,Mixed,67k
+109,Business Analytics,SPECIALIZATION,Beginner,280k
+110,Business English,SPECIALIZATION,Intermediate,38k
+111,Business English Communication Skills,SPECIALIZATION,Intermediate,120k
+112,Business English: Networking,COURSE,Intermediate,77k
+113,Business Foundations,SPECIALIZATION,Beginner,510k
+114,Business Model Innovation,COURSE,Mixed,13k
+115,Business Statistics and Analysis,SPECIALIZATION,Beginner,110k
+116,Business Strategies for A Better World,SPECIALIZATION,Beginner,24k
+117,Business Strategy,SPECIALIZATION,Beginner,89k
+118,Business Technology Management,SPECIALIZATION,Beginner,67k
+119,Business Transformation with Google Cloud,COURSE,Beginner,10k
+120,Business Writing,COURSE,Beginner,48k
+121,Business and Financial Modeling,SPECIALIZATION,Beginner,160k
+122,C for Everyone: Programming Fundamentals,COURSE,Beginner,31k
+123,C# Programming for Unity Game Development,SPECIALIZATION,Beginner,36k
+124,COVID-19 Contact Tracing,COURSE,Beginner,220k
+125,COVID-19: What You Need to Know (CME Eligible),COURSE,Beginner,32k
+126,"Cameras, Exposure, and Photography",COURSE,Mixed,130k
+127,Camino a la Excelencia en GestiÃ³n de Proyectos,COURSE,Beginner,340k
+128,"Capstone: Retrieving, Processing, and Visualizing Data with Python",COURSE,Mixed,82k
+129,Career Success,SPECIALIZATION,Beginner,790k
+130,Challenging Forensic Science: How Science Should Speak to Court,COURSE,Beginner,31k
+131,Chemicals and Health,COURSE,Beginner,23k
+132,Chicken Behaviour and Welfare,COURSE,Mixed,19k
+133,Child Nutrition and Cooking,COURSE,Beginner,30k
+134,Chinese for HSK 1,COURSE,Beginner,22k
+135,Cisco Networking Basics,SPECIALIZATION,Beginner,57k
+136,Classical Sociological Theory,COURSE,Mixed,51k
+137,Claves de la DirecciÃ³n de Empresas,SPECIALIZATION,Beginner,51k
+138,Climate Change and Health: From Science to Action,SPECIALIZATION,Beginner,4.8k
+139,Clinical Terminology for International and U.S. Students,COURSE,Beginner,32k
+140,Cloud Computing,SPECIALIZATION,Intermediate,110k
+141,Cloud Computing Basics (Cloud 101),COURSE,Beginner,37k
+142,Cloud Engineering with Google Cloud,PROFESSIONAL CERTIFICATE,Intermediate,310k
+143,Coaching Skills for Managers,SPECIALIZATION,Intermediate,37k
+144,Code Yourself! An Introduction to Programming,COURSE,Beginner,120k
+145,Communication Skills for Engineers,SPECIALIZATION,Beginner,15k
+146,Communication Strategies for a Virtual Age,COURSE,Beginner,43k
+147,Compassionate Leadership Through Service Learning with Jane Goodall and Roots & Shoots,COURSE,Beginner,6.4k
+148,"Competencias digitales. Herramientas de ofimÃ¡tica (Microsoft Word, Excel, Power Point)",COURSE,Beginner,43k
+149,Competitive Strategy and Organization Design,SPECIALIZATION,Intermediate,350k
+150,Computational Social Science,SPECIALIZATION,Beginner,5.8k
+151,Computational Thinking for Problem Solving,COURSE,Beginner,33k
+152,Computer Security and Systems Management,SPECIALIZATION,Beginner,27k
+153,Conflict Management,SPECIALIZATION,Beginner,66k
+154,Construction Cost Estimating and Cost Control,COURSE,Beginner,19k
+155,Construction Management,SPECIALIZATION,Beginner,61k
+156,Construction Project Management,COURSE,Beginner,43k
+157,Construction Scheduling,COURSE,Beginner,15k
+158,Contabilidad para no contadores,COURSE,Beginner,220k
+159,Content Strategy for Professionals,SPECIALIZATION,Beginner,27k
+160,Continuous Delivery & DevOps,COURSE,Beginner,26k
+161,Control of Mobile Robots,COURSE,Mixed,49k
+162,Convolutional Neural Networks,COURSE,Intermediate,240k
+163,Convolutional Neural Networks in TensorFlow,COURSE,Intermediate,46k
+164,Corporate & Commercial Law I: Contracts & Employment Law,COURSE,Intermediate,10k
+165,Corporate Finance Essentials,COURSE,Mixed,56k
+166,Corporate Strategy,COURSE,Beginner,7.8k
+167,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,COURSE,Mixed,10k
+168,"CorrecciÃ³n, estilo y  variaciones de la lengua espaÃ±ola",COURSE,Beginner,75k
+169,Cost and Economics in Pricing Strategy,COURSE,Beginner,15k
+170,Costos para los Negocios,COURSE,Intermediate,43k
+171,Crash Course on Python,COURSE,Beginner,81k
+172,Creative Problem Solving,COURSE,Mixed,140k
+173,Creative Writing,SPECIALIZATION,Beginner,140k
+174,Creative Writing: The Craft of Plot,COURSE,Mixed,120k
+175,"Creatividad, diseÃ±o e innovaciÃ³n: TÃ©cnicas y herramientas",SPECIALIZATION,Beginner,150k
+176,Cuidado de heridas en el Ã¡mbito hospitalario,COURSE,Intermediate,26k
+177,Cuidados y procedimientos generales en la atenciÃ³n del reciÃ©n nacido,COURSE,Intermediate,22k
+178,Culture-Driven Team Building,SPECIALIZATION,Beginner,17k
+179,Curanderismo: Traditional Healing Using Plants,COURSE,Beginner,5.5k
+180,Customer Segmentation and Prospecting,COURSE,Beginner,18k
+181,Cybersecurity,SPECIALIZATION,Intermediate,99k
+182,Cybersecurity and Its Ten Domains,COURSE,Beginner,140k
+183,Cybersecurity for Business,SPECIALIZATION,Beginner,23k
+184,CÃ³mo hablar bien en pÃºblico,COURSE,Beginner,55k
+185,Dairy Production and Management,COURSE,Mixed,23k
+186,Data Analysis and Interpretation,SPECIALIZATION,Beginner,100k
+187,Data Analysis and Presentation Skills: the PwC Approach,SPECIALIZATION,Beginner,220k
+188,Data Analysis with Python,COURSE,Beginner,110k
+189,Data Analytics for Lean Six Sigma,COURSE,Beginner,24k
+190,Data Collection and Processing with Python,COURSE,Intermediate,19k
+191,Data Engineering on Google Cloud Platform æ—¥æœ¬èªžç‰ˆ,SPECIALIZATION,Intermediate,3k
+192,Data Engineering with Google Cloud,PROFESSIONAL CERTIFICATE,Intermediate,120k
+193,"Data Engineering, Big Data, and Machine Learning on GCP",SPECIALIZATION,Intermediate,120k
+194,Data Management for Clinical Research,COURSE,Beginner,42k
+195,Data Mining,SPECIALIZATION,Intermediate,140k
+196,Data Science,SPECIALIZATION,Beginner,830k
+197,Data Science Math Skills,COURSE,Beginner,140k
+198,Data Science Methodology,COURSE,Beginner,89k
+199,Data Science: Foundations using R,SPECIALIZATION,Beginner,740k
+200,Data Science: Statistics and Machine Learning,SPECIALIZATION,Intermediate,210k
+201,Data Visualization and Communication with Tableau,COURSE,Mixed,130k
+202,Data Visualization with Advanced Excel,COURSE,Beginner,60k
+203,Data Visualization with Python,COURSE,Intermediate,66k
+204,Data Visualization with Tableau,SPECIALIZATION,Beginner,96k
+205,Data Warehousing for Business Intelligence,SPECIALIZATION,Advanced,140k
+206,Data and Health Indicators in Public Health Practice,COURSE,Beginner,18k
+207,Data-driven Decision Making,COURSE,Beginner,120k
+208,Databases and SQL for Data Science,COURSE,Beginner,110k
+209,De-Mystifying Mindfulness,COURSE,Beginner,150k
+210,Decision-Making and Scenarios,COURSE,Mixed,31k
+211,Deep Learning,SPECIALIZATION,Intermediate,690k
+212,Democracia y decisiones pÃºblicas. IntroducciÃ³n al anÃ¡lisis de polÃ­ticas pÃºblicas,COURSE,Beginner,44k
+213,Dentistry 101,COURSE,Beginner,4.5k
+214,Dermatology: Trip to skin,COURSE,Beginner,8.2k
+215,Design Thinking for Innovation,COURSE,Beginner,240k
+216,Design Thinking for the Greater Good: Innovation in the Social Sector,COURSE,Beginner,17k
+217,Design and Interpretation of Clinical Trials,COURSE,Mixed,67k
+218,Design and Make Infographics (Project-Centered Course),COURSE,Mixed,97k
+219,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,COURSE,Intermediate,19k
+220,Developing APIs with Google Cloud's Apigee API Platform,SPECIALIZATION,Intermediate,16k
+221,Developing Applications with Google Cloud Platform,SPECIALIZATION,Intermediate,300k
+222,Developing Applications with Google Cloud Platform æ—¥æœ¬èªžç‰ˆ,SPECIALIZATION,Intermediate,4k
+223,Developing Industrial Internet of Things,SPECIALIZATION,Intermediate,8k
+224,Developing Your Musicianship,COURSE,Mixed,41k
+225,Developing Your Musicianship,SPECIALIZATION,Beginner,54k
+226,Devenir entrepreneur du changement,COURSE,Mixed,54k
+227,Digital Advertising Strategy,SPECIALIZATION,Beginner,9k
+228,Digital Business Models,COURSE,Beginner,21k
+229,Digital Manufacturing & Design Technology,SPECIALIZATION,Beginner,37k
+230,Digital Marketing,SPECIALIZATION,Beginner,380k
+231,Digital Media and Marketing Strategies,COURSE,Mixed,57k
+232,Digital Product Management,SPECIALIZATION,Beginner,140k
+233,Digital Product Management: Modern Fundamentals,COURSE,Beginner,58k
+234,Dino 101: Dinosaur Paleobiology,COURSE,Beginner,35k
+235,Discrete Optimization,COURSE,Intermediate,40k
+236,DiseÃ±o Instruccional: Aprendizaje activo y PedagogÃ­a digital,SPECIALIZATION,Beginner,4k
+237,DiseÃ±o y CreaciÃ³n de un Emprendimiento Social,COURSE,Beginner,21k
+238,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",COURSE,Intermediate,130k
+239,Dog Emotion and Cognition,COURSE,Mixed,150k
+240,Driving business towards the Sustainable Development Goals,COURSE,Beginner,5.6k
+241,Drug Commercialization,COURSE,Beginner,17k
+242,Drug Discovery,COURSE,Beginner,39k
+243,Dynamic Public Speaking,SPECIALIZATION,Beginner,110k
+244,EMT Foundations,COURSE,Beginner,7.1k
+245,Ecology: Ecosystem Dynamics and Conservation,COURSE,Intermediate,18k
+246,Econometrics: Methods and Applications,COURSE,Mixed,110k
+247,Economics of Money and Banking,COURSE,Mixed,83k
+248,Ecosystem Services: a Method for Sustainable Development,COURSE,Intermediate,16k
+249,Effective Compliance Programs,COURSE,Mixed,3.4k
+250,EgiptologÃ­a (Egyptology),COURSE,Beginner,46k
+251,El Abogado del Futuro: Legaltech y la TransformaciÃ³n Digital del Derecho,COURSE,Beginner,1.5k
+252,Elastic Google Cloud Infrastructure: Scaling and Automation,COURSE,Intermediate,57k
+253,Electric Industry Operations and Markets,COURSE,Beginner,12k
+254,Electronic Music Production,SPECIALIZATION,Intermediate,110k
+255,Emerging Technologies: From Smartphones to IoT to Big Data,SPECIALIZATION,Beginner,17k
+256,"Energy Production, Distribution & Safety",SPECIALIZATION,Beginner,37k
+257,Engineering Health: Introduction to Yoga and Physiology,COURSE,Beginner,14k
+258,Engineering Project Management: Initiating and Planning,COURSE,Beginner,23k
+259,English Composition I,COURSE,Beginner,200k
+260,English for Business and Entrepreneurship,COURSE,Beginner,230k
+261,English for Career Development,COURSE,Mixed,760k
+262,English for Journalism,COURSE,Mixed,130k
+263,English for Research Publication Purposes,SPECIALIZATION,Intermediate,42k
+264,"English for Science, Technology, Engineering, and Mathematics",COURSE,Beginner,110k
+265,Enterprise Architecture,COURSE,Beginner,2.4k
+266,Entrepreneurial Finance: Strategy and Innovation,SPECIALIZATION,Intermediate,7.9k
+267,Entrepreneurship,SPECIALIZATION,Beginner,110k
+268,Entrepreneurship 1: Developing the Opportunity,COURSE,Mixed,86k
+269,Entrepreneurship 2: Launching your Start-Up,COURSE,Mixed,38k
+270,Entrepreneurship 3: Growth Strategies,COURSE,Beginner,31k
+271,Entrepreneurship Strategy: From Ideation to Exit,COURSE,Beginner,20k
+272,Entrepreneurship: Launching an Innovative Business,SPECIALIZATION,Beginner,69k
+273,Epidemics - the Dynamics of Infectious Diseases,COURSE,Mixed,45k
+274,"Epidemics, Pandemics and Outbreaks",COURSE,Mixed,23k
+275,Epidemiology for Public Health,SPECIALIZATION,Beginner,6.4k
+276,Epidemiology in Public Health Practice,SPECIALIZATION,Beginner,31k
+277,Epidemiology: The Basic Science of Public Health,COURSE,Mixed,130k
+278,Epigenetic Control of Gene Expression,COURSE,Mixed,35k
+279,Equine Welfare and Management,COURSE,Beginner,7.2k
+280,Esports,SPECIALIZATION,Beginner,1.8k
+281,Essential Epidemiologic Tools for Public Health Practice,COURSE,Beginner,14k
+282,Essential Google Cloud Infrastructure: Core Services,COURSE,Intermediate,68k
+283,Essential Google Cloud Infrastructure: Foundation,COURSE,Intermediate,83k
+284,Essentials in Clinical Simulations Across the Health Professions,COURSE,Intermediate,4.1k
+285,Essentials of Corporate Finance,SPECIALIZATION,Intermediate,54k
+286,Essentials of Global Health,COURSE,Mixed,31k
+287,EstadÃ­stica y probabilidad,COURSE,Beginner,27k
+288,EvaluaciÃ³n educativa,SPECIALIZATION,Beginner,13k
+289,"Everyday Excel, Part 1",COURSE,Beginner,11k
+290,Everyday Parenting: The ABCs of Child Rearing,COURSE,Beginner,86k
+291,Excel Skills for Business,SPECIALIZATION,Beginner,240k
+292,Excel Skills for Business: Advanced,COURSE,Intermediate,39k
+293,Excel Skills for Business: Essentials,COURSE,Beginner,200k
+294,Excel Skills for Business: Intermediate I,COURSE,Intermediate,76k
+295,Excel Skills for Business: Intermediate II,COURSE,Intermediate,39k
+296,Excel to MySQL: Analytic Techniques for Business,SPECIALIZATION,Beginner,490k
+297,Excel/VBA for Creative Problem Solving,SPECIALIZATION,Beginner,56k
+298,"Excel/VBA for Creative Problem Solving, Part 1",COURSE,Beginner,54k
+299,Executive Data Science,SPECIALIZATION,Beginner,170k
+300,Explorando la EnergÃ­a Sustentable,COURSE,Beginner,28k
+301,Fashion as Design,COURSE,Beginner,180k
+302,Feminism and Social Justice,COURSE,Beginner,18k
+303,FinTech Law and Policy,COURSE,Beginner,9.7k
+304,FinTech: Finance Industry Transformation and Regulation,SPECIALIZATION,Beginner,13k
+305,"FinTech: Foundations, Payments, and Regulations",COURSE,Beginner,12k
+306,Finance & Quantitative Modeling for Analysts,SPECIALIZATION,Beginner,260k
+307,Finance for Non-Finance Professionals,COURSE,Beginner,69k
+308,Finance for Non-Financial Managers,COURSE,Intermediate,12k
+309,Financial Accounting Fundamentals,COURSE,Beginner,65k
+310,Financial Acumen for Non-Financial Managers,COURSE,Beginner,10k
+311,Financial Engineering and Risk Management Part I,COURSE,Mixed,100k
+312,Financial Management,SPECIALIZATION,Intermediate,76k
+313,Financial Markets,COURSE,Beginner,470k
+314,Financial Markets and Investment Strategy,SPECIALIZATION,Beginner,60k
+315,Financial Reporting,SPECIALIZATION,Intermediate,12k
+316,Financial Technology (Fintech) Innovations,SPECIALIZATION,Beginner,6.5k
+317,Financing and Investing in Infrastructure,COURSE,Mixed,24k
+318,Finanzas corporativas,SPECIALIZATION,Intermediate,30k
+319,Finanzas personales,COURSE,Mixed,310k
+320,Finding Purpose and Meaning In Life: Living for What Matters Most,COURSE,Beginner,36k
+321,Fintech: Foundations & Applications of Financial Technology,SPECIALIZATION,Beginner,20k
+322,First Step Korean,COURSE,Beginner,400k
+323,Food & Beverage Management,COURSE,Mixed,57k
+324,Forensic Accounting and Fraud Examination,COURSE,Mixed,42k
+325,FormulaciÃ³n y evaluaciÃ³n de proyectos complejos,COURSE,Intermediate,4.4k
+326,Foundational Finance for Strategic Decision Making,SPECIALIZATION,Beginner,14k
+327,Foundations of Business Strategy,COURSE,Beginner,63k
+328,Foundations of Everyday Leadership,COURSE,Mixed,62k
+329,Foundations of Global Health,SPECIALIZATION,Beginner,31k
+330,Foundations of Management,SPECIALIZATION,Beginner,64k
+331,Foundations of Marketing Analytics,SPECIALIZATION,Intermediate,27k
+332,Foundations of Positive Psychology,SPECIALIZATION,Beginner,89k
+333,Foundations of Public Health Practice,SPECIALIZATION,Beginner,3.2k
+334,From Data to Insights with Google Cloud Platform,SPECIALIZATION,Beginner,26k
+335,From the Big Bang to Dark Energy,COURSE,Beginner,52k
+336,Front-End Web Development with React,COURSE,Intermediate,45k
+337,Front-End Web UI Frameworks and Tools: Bootstrap 4,COURSE,Intermediate,89k
+338,Full Stack Web and Multiplatform Mobile App Development,SPECIALIZATION,Intermediate,150k
+339,Full-Stack Web Development with React,SPECIALIZATION,Intermediate,140k
+340,Functional Programming Principles in Scala,COURSE,Intermediate,170k
+341,Functional Programming in Scala,SPECIALIZATION,Intermediate,220k
+342,Fundamental Neuroscience for Neuroimaging,COURSE,Beginner,30k
+343,Fundamentals of Accounting,SPECIALIZATION,Beginner,39k
+344,Fundamentals of Computing,SPECIALIZATION,Beginner,200k
+345,Fundamentals of Engineering Exam Review,COURSE,Mixed,49k
+346,Fundamentals of GIS,COURSE,Beginner,86k
+347,Fundamentals of Graphic Design,COURSE,Beginner,290k
+348,Fundamentals of Immunology,SPECIALIZATION,Intermediate,20k
+349,Fundamentals of Immunology: Innate Immunity and B-Cell Function,COURSE,Intermediate,18k
+350,Fundamentals of Music Theory,COURSE,Beginner,180k
+351,Fundamentals of Project Planning and Management,COURSE,Beginner,120k
+352,Fundamentals of Quantitative Modeling,COURSE,Mixed,110k
+353,Fundamentals of Reinforcement Learning,COURSE,Intermediate,22k
+354,Fundamentals of Visualization with Tableau,COURSE,Beginner,81k
+355,Fundamentos Empresariales,SPECIALIZATION,Beginner,25k
+356,Fundamentos EstratÃ©gicos Empresariales,SPECIALIZATION,Beginner,56k
+357,Fundamentos de Excel para Negocios,COURSE,Beginner,150k
+358,Fundamentos de Finanzas Empresariales,COURSE,Beginner,110k
+359,Fundamentos de la escritura,COURSE,Beginner,47k
+360,Fundraising and Development,SPECIALIZATION,Beginner,4.9k
+361,Futures Thinking,SPECIALIZATION,Beginner,9.4k
+362,G Suite Administration,SPECIALIZATION,Beginner,10k
+363,"GIS, Mapping, and Spatial Analysis",SPECIALIZATION,Beginner,140k
+364,Game Design and Development,SPECIALIZATION,Intermediate,100k
+365,Game Theory,COURSE,Beginner,260k
+366,Gamification,COURSE,Mixed,110k
+367,Gender and Sexuality: Diversity and Inclusion in the Workplace,COURSE,Beginner,14k
+368,Genomic Data Science,SPECIALIZATION,Intermediate,80k
+369,Geographic Information Systems  (GIS),SPECIALIZATION,Beginner,97k
+370,Geopolitics of Europe,COURSE,Mixed,19k
+371,GeopolÃ­tica y gobernanza global: riesgos y oportunidades,COURSE,Mixed,34k
+372,GestiÃ³n de organizaciones efectivas,COURSE,Mixed,47k
+373,Get Interactive: Practical Teaching with Technology,COURSE,Beginner,14k
+374,Getting Started With Music Theory,COURSE,Beginner,59k
+375,Getting Started with AWS Machine Learning,COURSE,Intermediate,73k
+376,Getting Started with Go,COURSE,Intermediate,59k
+377,Getting Started with Google Kubernetes Engine,COURSE,Intermediate,75k
+378,Getting Started with Google Sheets,COURSE,Beginner,18k
+379,Getting Started with SAS Programming,COURSE,Beginner,22k
+380,Global Diplomacy â€“ Diplomacy in the Modern World,COURSE,Mixed,79k
+381,Global Diplomacy: the United Nations in the World,COURSE,Beginner,29k
+382,Global Energy and Climate Policy,COURSE,Beginner,10k
+383,Global Environmental Management,COURSE,Intermediate,22k
+384,Global Financial Markets and Instruments,COURSE,Mixed,37k
+385,Global Financing Solutions  (by EDHEC and SociÃ©tÃ© GÃ©nÃ©rale),COURSE,Intermediate,3.6k
+386,Global Trends for Business and Society,COURSE,Mixed,7.6k
+387,"Globalization, Economic Growth and Stability",SPECIALIZATION,Intermediate,44k
+388,Good with Words: Writing and Editing,SPECIALIZATION,Beginner,3.8k
+389,Google Cloud Platform Big Data and Machine Learning Fundamentals,COURSE,Intermediate,120k
+390,Google Cloud Platform Fundamentals for AWS Professionals,COURSE,Intermediate,36k
+391,Google IT Automation with Python,PROFESSIONAL CERTIFICATE,Beginner,93k
+392,Google IT Support,PROFESSIONAL CERTIFICATE,Beginner,350k
+393,Grammar and Punctuation,COURSE,Mixed,430k
+394,Graphic Design Elements for Non-Designers,SPECIALIZATION,Beginner,10k
+395,Greek and Roman Mythology,COURSE,Mixed,260k
+396,Greening the Economy: Sustainable Cities,COURSE,Beginner,56k
+397,Guitar for Beginners,COURSE,Mixed,210k
+398,Gut Check: Exploring Your Microbiome,COURSE,Mixed,62k
+399,"HTML, CSS, and Javascript for Web Developers",COURSE,Mixed,240k
+400,Habilidades Gerenciales,SPECIALIZATION,Beginner,43k
+401,Hacia una prÃ¡ctica constructivista en el aula,COURSE,Mixed,62k
+402,Hardware Description Languages for FPGA Design,COURSE,Intermediate,7.4k
+403,Healing with the Arts,COURSE,Mixed,39k
+404,Health Informatics,SPECIALIZATION,Beginner,8.1k
+405,Health Information Literacy for Data Analytics,SPECIALIZATION,Intermediate,5.4k
+406,Healthcare Law,SPECIALIZATION,Intermediate,1.7k
+407,Healthcare Marketplace,SPECIALIZATION,Beginner,36k
+408,Healthcare Organization Operations,SPECIALIZATION,Beginner,5.5k
+409,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",COURSE,Mixed,46k
+410,Homeland Security and Cybersecurity,SPECIALIZATION,Beginner,5.5k
+411,"Hotel Management: Distribution, Revenue and Demand Management",SPECIALIZATION,Beginner,28k
+412,How Things Work: An Introduction to Physics,COURSE,Intermediate,170k
+413,How To Create a Website in a Weekend! (Project-Centered Course),COURSE,Mixed,140k
+414,How to Start Your Own Business,SPECIALIZATION,Beginner,34k
+415,Human Resource Management: HR for People Managers,SPECIALIZATION,Beginner,98k
+416,IBM AI Engineering,PROFESSIONAL CERTIFICATE,Intermediate,140k
+417,IBM AI Enterprise Workflow,SPECIALIZATION,Advanced,3.5k
+418,IBM Applied AI,PROFESSIONAL CERTIFICATE,Beginner,220k
+419,IBM Customer Engagement Specialist Professional Certificate,COURSE,Beginner,3.3k
+420,IBM Data Science,PROFESSIONAL CERTIFICATE,Beginner,480k
+421,IT Fundamentals for Cybersecurity,SPECIALIZATION,Beginner,35k
+422,IT Security: Defense against the digital dark arts,COURSE,Beginner,62k
+423,"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",COURSE,Beginner,1.7k
+424,ImplementaciÃ³n del Marketing Mix,SPECIALIZATION,Beginner,23k
+425,Implementing RPA with Cognitive Automation and Analytics,SPECIALIZATION,Beginner,2.2k
+426,Improve Your English Communication Skills,SPECIALIZATION,Beginner,610k
+427,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",COURSE,Beginner,270k
+428,Improving Leadership & Governance in Nonprofit Organizations,SPECIALIZATION,Beginner,18k
+429,In the Studio: Postwar Abstract Painting,COURSE,Beginner,79k
+430,Indigenous Canada,COURSE,Mixed,51k
+431,Industrial IoT on Google Cloud Platform,COURSE,Beginner,34k
+432,Infectious Disease Modelling,SPECIALIZATION,Intermediate,1.6k
+433,Influencer Marketing Strategy,COURSE,Intermediate,12k
+434,"Influencing: Storytelling, Change Management and Governance",SPECIALIZATION,Beginner,22k
+435,Information Security: Context and Introduction,COURSE,Beginner,32k
+436,Information Visualization,SPECIALIZATION,Beginner,10k
+437,Informationâ€‹ â€‹Systems,SPECIALIZATION,Beginner,16k
+438,Initiating and Planning Projects,COURSE,Mixed,180k
+439,Innovation Management,COURSE,Beginner,40k
+440,"Innovation Through Design: Think, Make, Break, Repeat",COURSE,Beginner,10k
+441,Innovation: From Creativity to Entrepreneurship,SPECIALIZATION,Beginner,25k
+442,Inspirational Leadership: Leading with Sense,SPECIALIZATION,Beginner,72k
+443,Inspired Leadership,SPECIALIZATION,Intermediate,97k
+444,Inspiring and Motivating Individuals,COURSE,Mixed,85k
+445,Instructional Design Foundations and Applications,COURSE,Mixed,12k
+446,Instructional Methods in Health Professions Education,COURSE,Intermediate,9.7k
+447,Integrative Health and Medicine,SPECIALIZATION,Beginner,14k
+448,Intellectual Property Law,SPECIALIZATION,Intermediate,8.7k
+449,Interaction Design,SPECIALIZATION,Intermediate,150k
+450,Intercultural Management,COURSE,Beginner,6.5k
+451,International Business Essentials,SPECIALIZATION,Intermediate,22k
+452,International Cyber Conflicts,COURSE,Mixed,25k
+453,International Humanitarian Law in Theory and Practice,COURSE,Beginner,22k
+454,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,COURSE,Mixed,36k
+455,International Law in Action: the Arbitration of International Disputes,COURSE,Mixed,19k
+456,International Leadership and Organizational Behavior,COURSE,Mixed,41k
+457,International Marketing & Cross Industry Growth,SPECIALIZATION,Beginner,26k
+458,International Organizations Management,COURSE,Beginner,20k
+459,International Security Management,COURSE,Beginner,2.2k
+460,International Women's Health and Human Rights,COURSE,Beginner,35k
+461,International migrations: a global issue,COURSE,Beginner,11k
+462,Internet Connection: How to Get Online?,COURSE,Beginner,36k
+463,Internet Giants: The Law and Economics of Media Platforms,COURSE,Mixed,38k
+464,Interviewing and Resume Writing in English,SPECIALIZATION,Intermediate,66k
+465,IntroducciÃ³n a Data Science: ProgramaciÃ³n EstadÃ­stica con R,COURSE,Beginner,140k
+466,IntroducciÃ³n a la programaciÃ³n en Python I: Aprendiendo a programar con Python,COURSE,Beginner,100k
+467,Introduction aux Droits de lâ€™Homme,COURSE,Mixed,46k
+468,Introduction to Ableton Live,COURSE,Mixed,60k
+469,Introduction to Artificial Intelligence (AI),COURSE,Beginner,44k
+470,Introduction to Big Data,COURSE,Mixed,160k
+471,Introduction to Blockchain Technologies,COURSE,Beginner,16k
+472,Introduction to Breast Cancer,COURSE,Mixed,27k
+473,Introduction to Business Analytics: Communicating with Data,COURSE,Intermediate,14k
+474,Introduction to CSS3,COURSE,Mixed,84k
+475,Introduction to Calculus,COURSE,Intermediate,53k
+476,Introduction to Chemistry:  Reactions and Ratios,COURSE,Beginner,46k
+477,Introduction to Classical Music,COURSE,Mixed,150k
+478,Introduction to Cloud Computing,COURSE,Beginner,2.6k
+479,Introduction to Computer Programming,COURSE,Beginner,20k
+480,Introduction to Computer Science and Programming,SPECIALIZATION,Beginner,32k
+481,Introduction to Corporate Finance,COURSE,Mixed,130k
+482,Introduction to Cyber Attacks,COURSE,Beginner,27k
+483,Introduction to Cyber Security,SPECIALIZATION,Beginner,32k
+484,Introduction to Cybersecurity Tools & Cyber Attacks,COURSE,Beginner,30k
+485,Introduction to Data Analysis Using Excel,COURSE,Mixed,99k
+486,Introduction to Data Science,SPECIALIZATION,Beginner,310k
+487,Introduction to Data Science in Python,COURSE,Intermediate,390k
+488,Introduction to Dental Medicine,COURSE,Beginner,25k
+489,Introduction to Discrete Mathematics for Computer Science,SPECIALIZATION,Beginner,75k
+490,Introduction to Electronics,COURSE,Mixed,110k
+491,Introduction to Embedded Systems Software and Development Environments,COURSE,Intermediate,41k
+492,Introduction to Engineering Mechanics,COURSE,Mixed,150k
+493,Introduction to Environmental Law and Policy,COURSE,Mixed,34k
+494,Introduction to Financial Accounting,COURSE,Mixed,200k
+495,Introduction to Forensic Science,COURSE,Mixed,47k
+496,Introduction to Game Development,COURSE,Mixed,79k
+497,Introduction to Genetics and Evolution,COURSE,Mixed,74k
+498,Introduction to Genomic Technologies,COURSE,Mixed,42k
+499,Introduction to HTML5,COURSE,Mixed,220k
+500,Introduction to Imagemaking,COURSE,Beginner,54k
+501,Introduction to Intellectual Property,COURSE,Beginner,6k
+502,Introduction to International Criminal Law,COURSE,Mixed,82k
+503,Introduction to Marketing,COURSE,Mixed,220k
+504,Introduction to Mathematical Thinking,COURSE,Intermediate,270k
+505,Introduction to Operations Management,COURSE,Mixed,87k
+506,Introduction to Personal Branding,COURSE,Beginner,140k
+507,Introduction to Philosophy,COURSE,Mixed,370k
+508,Introduction to Portfolio Construction and Analysis with Python,COURSE,Mixed,11k
+509,Introduction to Probability and Data,COURSE,Beginner,160k
+510,Introduction to Programming in C,SPECIALIZATION,Beginner,82k
+511,Introduction to Programming with MATLAB,COURSE,Beginner,270k
+512,Introduction to Psychology,COURSE,Beginner,270k
+513,Introduction to Scripting in Python,SPECIALIZATION,Beginner,49k
+514,Introduction to Self-Driving Cars,COURSE,Advanced,39k
+515,Introduction to Spreadsheets and Models,COURSE,Mixed,76k
+516,Introduction to Statistics & Data Analysis in Public Health,COURSE,Beginner,12k
+517,Introduction to Sustainability,COURSE,Mixed,69k
+518,Introduction to Systematic Review and Meta-Analysis,COURSE,Mixed,67k
+519,Introduction to Systems Engineering,COURSE,Mixed,33k
+520,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",COURSE,Intermediate,150k
+521,Introduction to Thermodynamics: Transferring Energy from Here to There,COURSE,Beginner,4.1k
+522,"Introduction to Trading, Machine Learning & GCP",COURSE,Intermediate,13k
+523,Introduction to Typography,COURSE,Beginner,72k
+524,Introduction to User Experience Design,COURSE,Beginner,87k
+525,Introduction to User Experience Principles and Processes,COURSE,Beginner,16k
+526,Introduction to Web Development,COURSE,Beginner,76k
+527,Introduction to the Biology of Cancer,COURSE,Beginner,110k
+528,Introductory Human Physiology,COURSE,Mixed,270k
+529,IntroduÃ§Ã£o aos PrincÃ­pios e PrÃ¡ticas da GestÃ£o De Projetos,SPECIALIZATION,Beginner,4.5k
+530,IntroduÃ§Ã£o Ã  CiÃªncia da ComputaÃ§Ã£o com Python Parte 1,COURSE,Beginner,120k
+531,Investment Management,SPECIALIZATION,Beginner,99k
+532,Investment Management with Python and Machine Learning,SPECIALIZATION,Beginner,14k
+533,Investment and Portfolio Management,SPECIALIZATION,Beginner,49k
+534,Japanese for beginners 1,COURSE,Beginner,4.4k
+535,Java Programming and Software Engineering Fundamentals,SPECIALIZATION,Beginner,380k
+536,Java Programming: Solving Problems with Software,COURSE,Beginner,160k
+537,Julia Scientific Programming,COURSE,Beginner,22k
+538,Kotlin for Java Developers,COURSE,Intermediate,37k
+539,L'excellence opÃ©rationnelle en pratique,COURSE,Beginner,8k
+540,"L'impact investing, la finance qui change le monde",SPECIALIZATION,Beginner,6.3k
+541,Leadership Development for Engineers,SPECIALIZATION,Beginner,17k
+542,Leadership in 21st Century Organizations,COURSE,Mixed,34k
+543,Leading Healthcare Quality and Safety,COURSE,Beginner,16k
+544,Leading People and Teams,SPECIALIZATION,Beginner,220k
+545,"Leading for Equity, Diversity and Inclusion in Higher Education",COURSE,Intermediate,5.9k
+546,Leading: Human Resource Management and Leadership,SPECIALIZATION,Intermediate,16k
+547,Learn Chinese: HSK Test Preparation,SPECIALIZATION,Beginner,43k
+548,Learn English,SPECIALIZATION,Beginner,22k
+549,Learn English: Advanced Academic Speaking and Listening,SPECIALIZATION,Intermediate,78k
+550,Learn English: Advanced Grammar and Punctuation,SPECIALIZATION,Advanced,52k
+551,Learn English: Intermediate Grammar,SPECIALIZATION,Intermediate,120k
+552,Learn Mandarin Chinese,SPECIALIZATION,Beginner,39k
+553,Learn SQL Basics for Data Science,SPECIALIZATION,Beginner,160k
+554,Learn Spanish: Basic Spanish Vocabulary,SPECIALIZATION,Beginner,80k
+555,Learn to Program: The Fundamentals,COURSE,Beginner,180k
+556,Learn to Speak Korean 1,COURSE,Beginner,120k
+557,Learning to Teach Online,COURSE,Beginner,68k
+558,Legal Tech & Startups,COURSE,Intermediate,7.2k
+559,Les Fondamentaux de la NÃ©gociation,COURSE,Beginner,10k
+560,Liderazgo efectivo para el siglo XXI,SPECIALIZATION,Intermediate,23k
+561,Linear Circuits 1: DC Analysis,COURSE,Mixed,29k
+562,Love as a Force for Social Justice,COURSE,Beginner,14k
+563,Machine Learning,SPECIALIZATION,Intermediate,290k
+564,Machine Learning,COURSE,Mixed,3.2m
+565,Machine Learning Foundations: A Case Study Approach,COURSE,Mixed,240k
+566,Machine Learning and Reinforcement Learning in Finance,SPECIALIZATION,Intermediate,29k
+567,Machine Learning for All,COURSE,Beginner,19k
+568,Machine Learning for Business Professionals,COURSE,Intermediate,58k
+569,Machine Learning for Trading,SPECIALIZATION,Intermediate,15k
+570,Machine Learning with Python,COURSE,Intermediate,120k
+571,Machine Learning with TensorFlow on Google Cloud Platform,SPECIALIZATION,Intermediate,72k
+572,Magic in the Middle Ages,COURSE,Beginner,78k
+573,Making Architecture,COURSE,Beginner,43k
+574,Management of Fashion and Luxury Companies,COURSE,Mixed,120k
+575,Managerial Accounting Fundamentals,COURSE,Beginner,11k
+576,Managerial Economics and Business Analysis,SPECIALIZATION,Beginner,55k
+577,Managing Innovation and Design Thinking,SPECIALIZATION,Beginner,23k
+578,Managing Project Risks and Changes,COURSE,Mixed,71k
+579,Managing Social and Human Capital,COURSE,Beginner,27k
+580,Managing Your Health: The Role of Physical Therapy and Exercise,COURSE,Beginner,47k
+581,Market Research,SPECIALIZATION,Beginner,22k
+582,Marketing Digital,COURSE,Beginner,81k
+583,Marketing Digital,SPECIALIZATION,Beginner,39k
+584,Marketing Gerencial,COURSE,Intermediate,49k
+585,Marketing Mix Implementation,SPECIALIZATION,Beginner,93k
+586,Marketing Strategy,SPECIALIZATION,Beginner,57k
+587,Marketing Verde,COURSE,Mixed,58k
+588,Marketing con Redes Sociales,SPECIALIZATION,Intermediate,60k
+589,Marketing in a Digital World,COURSE,Beginner,310k
+590,Mastering Data Analysis in Excel,COURSE,Mixed,280k
+591,Mastering Final Cut Pro,COURSE,Beginner,8.4k
+592,Mastering Software Development in R,SPECIALIZATION,Beginner,52k
+593,Materials Science: 10 Things Every Engineer Should Know,COURSE,Mixed,48k
+594,Mathematics for Data Science,SPECIALIZATION,Beginner,12k
+595,Mathematics for Machine Learning,SPECIALIZATION,Beginner,150k
+596,Mathematics for Machine Learning: Linear Algebra,COURSE,Beginner,140k
+597,Mathematics for Machine Learning: Multivariate Calculus,COURSE,Beginner,51k
+598,Mathematics for Machine Learning: PCA,COURSE,Intermediate,33k
+599,Medical Cannabis: The Health Effects of THC and CBD,SPECIALIZATION,Beginner,4.8k
+600,Medical Neuroscience,COURSE,Advanced,170k
+601,Memoir and Personal Essay: Write About Yourself,SPECIALIZATION,Beginner,13k
+602,Methods and Statistics in Social Sciences,SPECIALIZATION,Beginner,260k
+603,Microeconomics Principles,COURSE,Beginner,73k
+604,Microeconomics: The Power of Markets,COURSE,Mixed,34k
+605,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,COURSE,Beginner,230k
+606,Miracles of Human Language: An Introduction to Linguistics,COURSE,Beginner,120k
+607,Model Thinking,COURSE,Mixed,130k
+608,Modeling Risk and Realities,COURSE,Mixed,36k
+609,Modern Art & Ideas,COURSE,Beginner,310k
+610,Modern Big Data Analysis with SQL,SPECIALIZATION,Beginner,14k
+611,"Modern Robotics:  Mechanics, Planning, and Control",SPECIALIZATION,Intermediate,21k
+612,Modernizing Data Lakes and Data Warehouses with GCP,COURSE,Intermediate,9.1k
+613,Moral Foundations of Politics,COURSE,Mixed,100k
+614,More Introduction to Financial Accounting,COURSE,Mixed,40k
+615,Mountains 101,COURSE,Mixed,44k
+616,Municipal Solid Waste Management in Developing Countries,COURSE,Intermediate,59k
+617,Music Business,SPECIALIZATION,Beginner,42k
+618,Music Business Foundations,COURSE,Mixed,34k
+619,Music Production,SPECIALIZATION,Beginner,70k
+620,Nanotechnology: A Makerâ€™s Course,COURSE,Mixed,21k
+621,Natural Language Processing in TensorFlow,COURSE,Intermediate,40k
+622,NegociaciÃ³n exitosa: Estrategias y habilidades esenciales (en espaÃ±ol),COURSE,Mixed,95k
+623,"Negotiation, Mediation and Conflict Resolution",SPECIALIZATION,Beginner,22k
+624,Networking and Security Architecture with VMware NSX,COURSE,Intermediate,17k
+625,Networking in Google Cloud,SPECIALIZATION,Intermediate,290k
+626,Neural Networks and Deep Learning,COURSE,Intermediate,630k
+627,Neurolinguistics,COURSE,Mixed,41k
+628,New Approaches to Countering Terror: Countering Violent Extremism,COURSE,Beginner,12k
+629,Newborn Baby Care,SPECIALIZATION,Beginner,5.3k
+630,NutriciÃ³n y obesidad: control de sobrepeso,COURSE,Beginner,100k
+631,Nutrition and Lifestyle in Pregnancy,COURSE,Intermediate,35k
+632,Object Oriented Java Programming: Data Structures and Beyond,SPECIALIZATION,Intermediate,250k
+633,Object Oriented Programming in Java,SPECIALIZATION,Beginner,330k
+634,Object-Oriented Data Structures in C++,COURSE,Intermediate,21k
+635,Object-Oriented Design,COURSE,Intermediate,33k
+636,Oil & Gas Industry Operations and Markets,COURSE,Mixed,57k
+637,"Open Source Software Development, Linux and Git",SPECIALIZATION,Beginner,13k
+638,Operating Systems and You: Becoming a Power User,COURSE,Beginner,76k
+639,Operations Analytics,COURSE,Mixed,80k
+640,Optical Engineering,SPECIALIZATION,Advanced,6.2k
+641,Organizational Leadership,SPECIALIZATION,Intermediate,92k
+642,Osteoarchaeology: The Truth in Our Bones,COURSE,Beginner,22k
+643,Palliative Care: It's Not Just Hospice Anymore,SPECIALIZATION,Beginner,3.2k
+644,Palo Alto Networks Cybersecurity,SPECIALIZATION,Beginner,9.1k
+645,"Parallel, Concurrent, and Distributed Programming in Java",SPECIALIZATION,Intermediate,30k
+646,Particle Physics: an Introduction,COURSE,Mixed,42k
+647,Patient Safety,SPECIALIZATION,Beginner,8.8k
+648,Patrocinio Deportivo,COURSE,Beginner,12k
+649,People Analytics,COURSE,Mixed,84k
+650,Perfect Tenses and Modals,COURSE,Intermediate,79k
+651,Periodismo digital y combate a las fake news,COURSE,Beginner,8.9k
+652,Photography Basics and Beyond: From Smartphone to DSLR,SPECIALIZATION,Beginner,160k
+653,Plant Bioinformatic Methods,SPECIALIZATION,Beginner,83k
+654,Politics and Economics of International Energy,COURSE,Beginner,34k
+655,Positive Psychiatry and Mental Health,COURSE,Mixed,72k
+656,Positive Psychology,COURSE,Mixed,180k
+657,Positive Psychology: Applications and Interventions,COURSE,Beginner,23k
+658,Positive Psychology: Martin E. P. Seligmanâ€™s Visionary Science,COURSE,Beginner,50k
+659,Positive Psychology: Resilience Skills,COURSE,Beginner,40k
+660,Power Electronics,SPECIALIZATION,Intermediate,67k
+661,Practical Data Science with MATLAB,SPECIALIZATION,Beginner,10k
+662,Practical Time Series Analysis,COURSE,Intermediate,39k
+663,Preparing for the Google Cloud Associate Cloud Engineer Exam,COURSE,Beginner,22k
+664,Preparing to Manage Human Resources,COURSE,Mixed,68k
+665,"Presentation Skills: Speechwriting, Slides and Delivery",SPECIALIZATION,Beginner,47k
+666,Pricing Strategy Optimization,SPECIALIZATION,Beginner,20k
+667,Primeros Auxilios PsicolÃ³gicos (PAP),COURSE,Mixed,280k
+668,Private Equity and Venture Capital,COURSE,Mixed,79k
+669,Probabilistic Graphical Models 1: Representation,COURSE,Advanced,68k
+670,Probability and Statistics: To p or not to p?,COURSE,Beginner,36k
+671,Process Mining: Data science in Action,COURSE,Intermediate,39k
+672,"Programming Foundations with JavaScript, HTML and CSS",COURSE,Beginner,250k
+673,Programming Fundamentals,COURSE,Beginner,19k
+674,Programming for Everybody (Getting Started with Python),COURSE,Mixed,1.3m
+675,Programming with Google Go,SPECIALIZATION,Intermediate,18k
+676,Project Execution,COURSE,Beginner,70k
+677,Project Launch,COURSE,Beginner,190k
+678,Project Management & Other Tools for Career Development,SPECIALIZATION,Beginner,440k
+679,Project Management Principles and Practices,SPECIALIZATION,Beginner,230k
+680,Psychological First Aid,COURSE,Mixed,190k
+681,Public Policy Challenges of the 21st Century,COURSE,Beginner,52k
+682,Python Basics,COURSE,Beginner,110k
+683,Python Classes and Inheritance,COURSE,Intermediate,21k
+684,Python Data Structures,COURSE,Mixed,420k
+685,"Python Functions, Files, and Dictionaries",COURSE,Beginner,26k
+686,Python and Statistics for Financial Analysis,COURSE,Intermediate,41k
+687,Python for Data Science and AI,COURSE,Beginner,170k
+688,Python for Everybody,SPECIALIZATION,Beginner,1.5m
+689,Quantitative Methods,COURSE,Mixed,69k
+690,Queering Identities: LGBTQ+ Sexuality and Gender Identity,COURSE,Beginner,3k
+691,R Programming,COURSE,Intermediate,480k
+692,"Ready, Set, Future! Introduction to Futures Thinking",COURSE,Beginner,7.7k
+693,Recommender Systems,SPECIALIZATION,Intermediate,29k
+694,"Recruiting, Hiring, and Onboarding Employees",COURSE,Mixed,35k
+695,Reinforcement Learning,SPECIALIZATION,Intermediate,23k
+696,Renewable Energy and Green Building Entrepreneurship,COURSE,Beginner,24k
+697,Reporting extra-financier et stratÃ©gie RSE,COURSE,Beginner,5.2k
+698,Requirements Engineering: Secure Software  Specifications,SPECIALIZATION,Beginner,7.2k
+699,Research Data Management and Sharing,COURSE,Mixed,16k
+700,"Resilience in Children Exposed to Trauma, Disaster and War: Global Perspectives",COURSE,Mixed,15k
+701,Responsive Website Development and Design,SPECIALIZATION,Beginner,170k
+702,Rethinking International Tax Law,COURSE,Mixed,36k
+703,RevisÃ£o SistemÃ¡tica e Meta-anÃ¡lise,COURSE,Intermediate,17k
+704,Robotics,SPECIALIZATION,Beginner,120k
+705,Roman Architecture,COURSE,Beginner,30k
+706,Russian Alphabet,COURSE,Beginner,3.2k
+707,Russian for beginners Ð1. Ð ÑƒÑÑÐºÐ¸Ð¹ ÑÐ·Ñ‹Ðº: A1,SPECIALIZATION,Beginner,7k
+708,RÃ©ussir le Changement,COURSE,Mixed,33k
+709,SAS Programmer,PROFESSIONAL CERTIFICATE,Beginner,370k
+710,SAS Visual Business Analytics,PROFESSIONAL CERTIFICATE,Beginner,2.6k
+711,SQL for Data Science,COURSE,Beginner,160k
+712,Sales Operations/Management,SPECIALIZATION,Beginner,5.6k
+713,Sales Training for High Performing Teams,SPECIALIZATION,Beginner,16k
+714,Sample-based Learning Methods,COURSE,Intermediate,6.8k
+715,Scaling Operations: Linking Strategy and Execution,COURSE,Mixed,12k
+716,School Health for Children and Adolescents,SPECIALIZATION,Beginner,9.1k
+717,Science of Exercise,COURSE,Beginner,140k
+718,Search Engine Optimization Fundamentals,COURSE,Mixed,47k
+719,Secure Coding Practices,SPECIALIZATION,Intermediate,6.4k
+720,Security & Safety Challenges in a Globalized World,COURSE,Beginner,14k
+721,Security in Google Cloud Platform,SPECIALIZATION,Intermediate,300k
+722,Self-Driving Cars,SPECIALIZATION,Advanced,39k
+723,Sequence Models,COURSE,Intermediate,14k
+724,Sexualidad...mucho mÃ¡s que sexo,COURSE,Beginner,110k
+725,Sharpened Visions: A Poetry Workshop,COURSE,Beginner,61k
+726,Site Reliability Engineering: Measuring and Managing Reliability,COURSE,Advanced,16k
+727,Six Sigma Green Belt,SPECIALIZATION,Intermediate,18k
+728,Six Sigma and the Organization (Advanced),COURSE,Intermediate,15k
+729,"Sleep: Neurobiology, Medicine, and Society",COURSE,Beginner,20k
+730,Smart Cities â€“ Management of Smart Urban Infrastructures,COURSE,Beginner,22k
+731,Social Entrepreneurship,SPECIALIZATION,Beginner,13k
+732,Social Media Marketing,SPECIALIZATION,Beginner,130k
+733,"Social Norms, Social Change I",COURSE,Beginner,78k
+734,Social Policy for Social Services & Health Practitioners,SPECIALIZATION,Beginner,4.2k
+735,Social Psychology,COURSE,Beginner,220k
+736,Social and Economic Networks:  Models and Analysis,COURSE,Advanced,42k
+737,Software Design and Architecture,SPECIALIZATION,Beginner,60k
+738,Software Development Lifecycle,SPECIALIZATION,Intermediate,34k
+739,Software Processes and Agile Practices,COURSE,Mixed,60k
+740,Software Product Management,SPECIALIZATION,Beginner,110k
+741,Solar Energy Basics,COURSE,Beginner,17k
+742,Songwriting: Writing the Lyrics,COURSE,Beginner,68k
+743,Soporte de TecnologÃ­as de la InformaciÃ³n de Google,PROFESSIONAL CERTIFICATE,Beginner,8.8k
+744,Spacecraft Dynamics and Control,SPECIALIZATION,Advanced,12k
+745,Spanish Vocabulary: Meeting People,COURSE,Beginner,71k
+746,"Speak English Professionally: In Person, Online & On the Phone",COURSE,Mixed,430k
+747,Sports Marketing,COURSE,Intermediate,12k
+748,Sports and Society,COURSE,Mixed,16k
+749,Stanford Introduction to Food and Health,COURSE,Beginner,370k
+750,Stanford's Short Course on Breastfeeding,COURSE,Beginner,17k
+751,Statistical Analysis with R for Public Health,SPECIALIZATION,Beginner,16k
+752,Statistics with Python,SPECIALIZATION,Beginner,34k
+753,Statistics with R,SPECIALIZATION,Beginner,220k
+754,Stories of Infection,COURSE,Intermediate,28k
+755,Strategic Business Analytics,SPECIALIZATION,Advanced,60k
+756,Strategic Business Management - Microeconomics,COURSE,Beginner,9.5k
+757,Strategic Leadership and Management,SPECIALIZATION,Beginner,100k
+758,Strategic Management,COURSE,Mixed,58k
+759,Strategic Management and Innovation,SPECIALIZATION,Beginner,68k
+760,Strategic Sales Management,SPECIALIZATION,Intermediate,9.2k
+761,Strategising: Management for Global Competitive Advantage,SPECIALIZATION,Intermediate,30k
+762,Strategy and Sustainability,COURSE,Beginner,11k
+763,Structuring Machine Learning Projects,COURSE,Beginner,220k
+764,Success,COURSE,Beginner,38k
+765,Successful Negotiation: Essential Strategies and Skills,COURSE,Mixed,750k
+766,Summary Statistics in Public Health,COURSE,Beginner,11k
+767,Supply Chain Analytics,COURSE,Beginner,7.9k
+768,Supply Chain Finance and Blockchain Technology,SPECIALIZATION,Intermediate,4.9k
+769,Supply Chain Logistics,COURSE,Beginner,66k
+770,Supply Chain Management,SPECIALIZATION,Beginner,82k
+771,Supply Chain Operations,COURSE,Beginner,24k
+772,Supply Chain Principles,COURSE,Mixed,29k
+773,Supporting children with difficulties in reading and writing,COURSE,Mixed,50k
+774,Survey Data Collection and Analytics,SPECIALIZATION,Beginner,45k
+775,Sustainable Tourism â€“ promoting environmental public health,COURSE,Beginner,9.4k
+776,Swift 5 iOS Application Developer,SPECIALIZATION,Beginner,3.9k
+777,System Administration and IT Infrastructure Services,COURSE,Beginner,62k
+778,Systems Biology and Biotechnology,SPECIALIZATION,Intermediate,48k
+779,Systems Thinking In Public Health,COURSE,Mixed,33k
+780,"TESOL Certificate, Part 1: Teach English Now!",SPECIALIZATION,Beginner,100k
+781,"TESOL Certificate, Part 2: Teach English Now!",SPECIALIZATION,Beginner,62k
+782,Teach English Now! Foundational Principles,COURSE,Mixed,81k
+783,Teach English Now! Teaching Language Online,COURSE,Intermediate,8.5k
+784,Teaching Character and Creating Positive Classrooms,COURSE,Mixed,53k
+785,Teamwork Skills: Communicating Effectively in Groups,COURSE,Beginner,49k
+786,Technical Support Fundamentals,COURSE,Beginner,280k
+787,TensorFlow in Practice,SPECIALIZATION,Intermediate,170k
+788,TensorFlow: Data and Deployment,SPECIALIZATION,Intermediate,12k
+789,Terrorism and Counterterrorism: Comparing Theory and Practice,COURSE,Beginner,90k
+790,The Addicted Brain,COURSE,Beginner,130k
+791,The Art of Music Production,COURSE,Intermediate,47k
+792,The Art of Sales: Mastering the Selling Process,SPECIALIZATION,Beginner,23k
+793,The Arts and Science of Relationships: Understanding Human Needs,COURSE,Beginner,73k
+794,The Bits and Bytes of Computer Networking,COURSE,Beginner,130k
+795,The Business of Health Care,SPECIALIZATION,Beginner,22k
+796,The Business of Music Production,SPECIALIZATION,Beginner,84k
+797,The Changing Global Order,COURSE,Intermediate,23k
+798,The Cycle: Management of Successful Arts and Cultural Organizations,COURSE,Beginner,11k
+799,The DIY Musician,SPECIALIZATION,Beginner,120k
+800,The Data Scientistâ€™s Toolbox,COURSE,Mixed,420k
+801,The Economics of Health Care Delivery,COURSE,Mixed,7.2k
+802,The Global Financial Crisis,COURSE,Mixed,84k
+803,The Horse Course: Introduction to Basic Care and Management,COURSE,Mixed,29k
+804,The Manager's Toolkit: A Practical Guide to Managing People at Work,COURSE,Mixed,47k
+805,"The Modern World, Part One: Global History from 1760 to 1910",COURSE,Beginner,130k
+806,"The Modern World, Part Two: Global History since 1910",COURSE,Beginner,47k
+807,The Oral Cavity: Portal to Health and Disease,COURSE,Intermediate,9.4k
+808,The Power of Macroeconomics: Economic Principles in the Real World,COURSE,Mixed,180k
+809,The Power of Microeconomics: Economic Principles in the Real World,COURSE,Mixed,120k
+810,The Pronunciation of American English,SPECIALIZATION,Beginner,1.7k
+811,The Science of Gastronomy,COURSE,Mixed,50k
+812,The Science of Stem Cells,COURSE,Intermediate,12k
+813,The Science of Success: What Researchers Know that You Should Know,COURSE,Beginner,59k
+814,The Science of Training Young Athletes,COURSE,Beginner,13k
+815,The Science of Well-Being,COURSE,Mixed,2.5m
+816,The Singer Songwriter,SPECIALIZATION,Beginner,320k
+817,The Social Context of Mental Health and Illness,COURSE,Mixed,19k
+818,The Strategy of Content Marketing,COURSE,Intermediate,100k
+819,"The Sustainable Development Goals â€“ A global, transdisciplinary vision for the future",COURSE,Beginner,26k
+820,The Teacher and Social and Emotional Learning (SEL),SPECIALIZATION,Beginner,5.2k
+821,The Technology of Music Production,COURSE,Beginner,28k
+822,The Truth About Cats and Dogs,COURSE,Mixed,33k
+823,The hidden value â€“ Lean in manufacturing and services,COURSE,Beginner,14k
+824,Think Again I: How to Understand Arguments,COURSE,Beginner,200k
+825,Tools for Data Science,COURSE,Beginner,120k
+826,Trading Strategies in Emerging Markets,SPECIALIZATION,Beginner,68k
+827,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",COURSE,Mixed,45k
+828,Tricky American English Pronunciation,COURSE,Beginner,110k
+829,Troubles du spectre de l'autisme : diagnostic,COURSE,Intermediate,5.4k
+830,U.S. Federal Taxation,SPECIALIZATION,Intermediate,12k
+831,UCI Project Management,PROFESSIONAL CERTIFICATE,Beginner,44k
+832,UI / UX Design,SPECIALIZATION,Beginner,68k
+833,UX Design Fundamentals,COURSE,Beginner,25k
+834,Understanding Cancer Metastasis,COURSE,Beginner,29k
+835,Understanding Clinical Research: Behind the Statistics,COURSE,Mixed,78k
+836,Understanding Einstein: The Special Theory of Relativity,COURSE,Beginner,89k
+837,Understanding Medical Research: Your Facebook Friend is Wrong,COURSE,Beginner,24k
+838,Understanding Modern Finance,SPECIALIZATION,Intermediate,11k
+839,Understanding Plants - Part I: What a Plant Knows,COURSE,Beginner,49k
+840,Understanding Research Methods,COURSE,Mixed,120k
+841,Understanding and Visualizing Data with Python,COURSE,Beginner,30k
+842,Understanding the Brain: The Neurobiology of Everyday Life,COURSE,Beginner,130k
+843,Unity Certified Programmer Exam Preparation,SPECIALIZATION,Intermediate,6.1k
+844,Unity XR: How to Build AR and VR Apps,SPECIALIZATION,Beginner,12k
+845,University Teaching,COURSE,Beginner,9.5k
+846,Unraveling the Cycling City,COURSE,Intermediate,3.9k
+847,User Experience Research and Design,SPECIALIZATION,Beginner,23k
+848,User Interface Design,SPECIALIZATION,Intermediate,43k
+849,Using Databases with Python,COURSE,Mixed,220k
+850,Using Python to Access Web Data,COURSE,Mixed,310k
+851,Using Python to Interact with the Operating System,COURSE,Beginner,19k
+852,Value Chain Management,SPECIALIZATION,Intermediate,63k
+853,Version Control with Git,COURSE,Mixed,40k
+854,Viral Marketing and How to Craft Contagious Content,COURSE,Mixed,150k
+855,Virtual Reality,SPECIALIZATION,Beginner,37k
+856,Virtual Teacher,SPECIALIZATION,Beginner,23k
+857,Vital Signs: Understanding What the Body Is Telling Us,COURSE,Mixed,190k
+858,Web Applications for Everybody,SPECIALIZATION,Intermediate,120k
+859,Web Design for Everybody: Basics of Web Development & Coding,SPECIALIZATION,Beginner,280k
+860,Weight Management: Beyond Balancing Calories,COURSE,Beginner,34k
+861,What Is Contemporary Art?,COURSE,Beginner,120k
+862,What future for education?,COURSE,Mixed,35k
+863,What is Compliance?,COURSE,Mixed,6.2k
+864,What is Data Science?,COURSE,Beginner,260k
+865,What is Social?,COURSE,Mixed,94k
+866,Wine Tasting: Sensory Techniques for Wine Analysis,COURSE,Beginner,32k
+867,Wonders of Ancient Egypt,COURSE,Intermediate,17k
+868,Write A Feature Length Screenplay For Film Or Television,COURSE,Beginner,12k
+869,Write Professional Emails in English,COURSE,Mixed,270k
+870,Write Your First Novel,COURSE,Beginner,18k
+871,Writing in the Sciences,COURSE,Beginner,140k
+872,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,COURSE,Mixed,17k
+873,iOS App Development with Swift,SPECIALIZATION,Intermediate,76k
+874,Â¿QuÃ© hacen los buenos directivos? Prioridades de la Alta DirecciÃ³n,COURSE,Beginner,25k
+875,Ã‰tudier en France: French Intermediate course B1-B2,COURSE,Intermediate,190k
+876,Ã‰xito Profesional,SPECIALIZATION,Beginner,69k
+877,Ð˜ÑÐºÑƒÑÑÑ‚Ð²Ð¾ Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð±Ð¸Ð·Ð½ÐµÑÐ°,SPECIALIZATION,Beginner,14k
+878,Ð˜ÑÐºÑƒÑÑÑ‚Ð²Ð¾ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð½Ð° ÑÐ¾Ð²Ñ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¼ C++,SPECIALIZATION,Intermediate,68k
+879,ÐšÐ¾Ñ€Ð¿Ð¾Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ðµ Ñ„Ð¸Ð½Ð°Ð½ÑÑ‹ Ð¸ ÑÑ‚Ð¾Ð¸Ð¼Ð¾ÑÑ‚ÑŒ ÐºÐ¾Ð¼Ð¿Ð°Ð½Ð¸Ð¸,SPECIALIZATION,Beginner,16k
+880,ÐœÐ°Ñ‚ÐµÐ¼Ð°Ñ‚Ð¸ÐºÐ° Ð¸ Python Ð´Ð»Ñ Ð°Ð½Ð°Ð»Ð¸Ð·Ð° Ð´Ð°Ð½Ð½Ñ‹Ñ…,COURSE,Beginner,67k
+881,ÐœÐ°ÑˆÐ¸Ð½Ð½Ð¾Ðµ Ð¾Ð±ÑƒÑ‡ÐµÐ½Ð¸Ðµ Ð¸ Ð°Ð½Ð°Ð»Ð¸Ð· Ð´Ð°Ð½Ð½Ñ‹Ñ…,SPECIALIZATION,Intermediate,77k
+882,ÐžÑÐ½Ð¾Ð²Ñ‹ Digital ÐœÐ°Ñ€ÐºÐµÑ‚Ð¸Ð½Ð³Ð°,SPECIALIZATION,Intermediate,19k
+883,ÐžÑÐ½Ð¾Ð²Ñ‹ Ð¿Ñ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ñ Ð½Ð° Python,COURSE,Beginner,83k
+884,ÐžÑÐ½Ð¾Ð²Ñ‹ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð½Ð° C++: Ð±ÐµÐ»Ñ‹Ð¹ Ð¿Ð¾ÑÑ,COURSE,Intermediate,41k
+885,ÐŸÐ¾Ð³Ñ€ÑƒÐ¶ÐµÐ½Ð¸Ðµ Ð² Python,COURSE,Intermediate,45k
+886,ÐŸÑ€Ð¾Ð³Ñ€Ð°Ð¼Ð¼Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð½Ð° Python,SPECIALIZATION,Intermediate,52k
+887,ÐŸÑÐ¸Ñ…Ð¾Ð»Ð¸Ð½Ð³Ð²Ð¸ÑÑ‚Ð¸ÐºÐ° (Psycholinguistics),COURSE,Mixed,21k
+888,Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ¾Ð²: Ð²Ñ‘Ñ€ÑÑ‚ÐºÐ° Ð¸ JavaScript,SPECIALIZATION,Intermediate,30k
+889,Ð ÑƒÑÑÐºÐ¸Ð¹ ÐºÐ°Ðº Ð¸Ð½Ð¾ÑÑ‚Ñ€Ð°Ð½Ð½Ñ‹Ð¹,SPECIALIZATION,Intermediate,9.8k
+890,Ð¤Ð¸Ð½Ð°Ð½ÑÐ¾Ð²Ñ‹Ðµ Ð¸Ð½ÑÑ‚Ñ€ÑƒÐ¼ÐµÐ½Ñ‚Ñ‹ Ð´Ð»Ñ Ñ‡Ð°ÑÑ‚Ð½Ð¾Ð³Ð¾ Ð¸Ð½Ð²ÐµÑÑ‚Ð¾Ñ€Ð°,SPECIALIZATION,Beginner,38k
